@@ -19,7 +19,7 @@ public class Demo {
      */
     public static void main(String[] args) {
 
-        System.out.printf("%s \n%s \n", Mensaje.obtenerFrase(), Valor.obtenerHabitantes());
+        System.out.printf("%s %s \n", Mensaje.obtenerFrase(), Valor.obtenerHabitantes());
     }
 
 }
